@@ -1,0 +1,9 @@
+﻿  main.cpp
+  OGraphicsEngine.cpp
+  OGame.cpp
+  CWin32Game.cpp
+  CWin32GraphicsEngine.cpp
+  CWin32Window.cpp
+  glad.c
+  glad_wgl.c
+  OpenGLGame.vcxproj -> G:\OpenGLGame\x64\Debug\OpenGLGame.exe
